@@ -1,3 +1,6 @@
+This is a data analytics implementation over GazeML project:
+https://github.com/swook/GazeML
+
 # GazeML
 A deep learning framework based on Tensorflow for the training of high performance gaze estimation.
 
